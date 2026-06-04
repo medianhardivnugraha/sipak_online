@@ -27,6 +27,20 @@ Iseng doang
 <br>
 1. Flowchart (OPTIONAL) per fitur
 
+1. Minimum Requirements
+   
+Python 3.12
+VSCode
+tabulate
+prettytable
+
+1. Limitasi Aplikasi
+
+Aplikasi ini hanya bisa untuk melakukan blabla, ketika aplikasi ditutup, perubahan tidak disimpan
+
+1. Pengembangan berikutnya
+
+Untuk saat ini belum ada, namun ada ide untuk menambahkan fitur blabla
 
 1. Credits
 
